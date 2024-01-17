@@ -11,7 +11,7 @@ title                    : "Nicolas Wittstock"
 title_separator          : "-"
 name                     : &name "Nicolas Wittstock"
 description              : &description "personal description"
-url                      : https://mmistakes.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://nicolas-wittstock.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/nicolas-wittstocks.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Nicolas Wittstock"
   avatar           : "profile.png"
-  bio              : "PhD Student - Political Economy of Technological Innovation"
+  bio              : "Political Economy"
   location         : "Seattle, WA"
   employer         : "University of Washington"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=FcX2JlgAAAAJ&hl=en"
   email            : "nwitts@uw.edu"
   researchgate     :  https://www.researchgate.net/profile/Nicolas-Wittstock
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : https://www.linkedin.com/in/nicolas-wittstock/
+  linkedin         : # https://www.linkedin.com/in/nicolas-wittstock/
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
