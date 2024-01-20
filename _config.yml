@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nicolas F. Wittstock"
+title                    : "Nicolas Wittstock"
 title_separator          : "-"
 name                     : &name "Nicolas Wittstock"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Nicolas Wittstock"
   avatar           : "NWittstock.JPG"
-  bio              : "Political Economy"
+  bio              : "PhD Candidate, Political Science"
   location         : "Seattle, Washington"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
