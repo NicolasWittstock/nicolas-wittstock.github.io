@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nicolas Wittstock"
+title                    : "Nicolas F. Wittstock"
 title_separator          : "-"
 name                     : &name "Nicolas Wittstock"
 description              : &description "personal description"
@@ -88,7 +88,7 @@ author:
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=FcX2JlgAAAAJ&hl=en&oi=ao"
   email            :  "nwitts@uw.edu"
-  researchgate     :  # "https://www.researchgate.net/profile/Nicolas-Wittstock"
+  researchgate     :  "https://www.researchgate.net/profile/Nicolas-Wittstock"
   uri              :
   bitbucket        :
   codepen          :
