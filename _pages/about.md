@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome 
+Welcome to my website! 
 
 I am a PhD Candidate in Political Science at the University of Washington. 
 
@@ -18,6 +18,7 @@ My research focuses broadly on the intersection between technological change, ec
 
 Innovation policy - how do State actions influence technological change, and how does resulting creative destruction reshape political institutions? 
 
+Recently, I have been especially focused on the political decline of Globalization and the return of the State through industrial policy. Here, I am especially interested in policies related to the Clean Energy transition. 
 
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and 
