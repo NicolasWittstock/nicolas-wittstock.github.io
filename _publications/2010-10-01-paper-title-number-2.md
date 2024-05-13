@@ -1,15 +1,10 @@
 ---
-title: "Paper Title Number 2"
+title: "Populist Support, Institutional Trust, and Gender: The Impact of Foreign-Imposed Austerity During the European Debt Crisis."
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: [/publication/2010-10-01-paper-title-number-2](https://pure.eur.nl/ws/files/46164885/main_pipV2N3.pdf#page=5)
+excerpt: ''
+date: 2021
+venue: 'Journal of Political Institutions and Political Economy'
+paperurl: '[http://academicpages.github.io/files/paper2.pdf](https://pure.eur.nl/ws/files/46164885/main_pipV2N3.pdf#page=5)'
+citation: 'Magistro, B., Owen, L. and Wittstock, N., 2021. Populist Support, Institutional Trust, and Gender: The Impact of Foreign-Imposed Austerity During the European Debt Crisis. Journal of Political Institutions and Political Economy, 2(3), pp.329-346.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
