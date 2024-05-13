@@ -12,14 +12,10 @@ Welcome
 
 I am a PhD Candidate in Political Science at the University of Washington. 
 
-My research 
+My research focuses on the Comparative Political Economy of Advanced Capitalist Democracies (mostly the U.S. and Europe). 
 
-My work has been published in 
-
-
-
-I hold an MA in IPE from King's College London, and a BA in Political Science and Economics from Mannheim Unviversity.
+My research focuses broadly on the intersection between technological change, economic development, and democracy and has been published or is forthcoming in Economic and Political Studies, South European Society and Politics, the Journal of Political Institutions and Political Economy, and Election Studies. With Prof. Victor Menaldo I recently revised and resubmitted a short book project to Cambridge University Press, Elements Series.
 
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and 
 
