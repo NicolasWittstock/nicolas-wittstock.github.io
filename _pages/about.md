@@ -9,12 +9,11 @@ redirect_from:
 ---
 
 
-I am a PhD Candidate in Political Science at the University of Washington. 
+I am an incoming Postdoctoral Scholar in Technology and National Security at the UC Institute for Global Conflict and Cooperation. 
 
-My research focuses on the Comparative Political Economy of Advanced Capitalist Democracies (mostly the U.S. and Europe). 
+I study the political economy of technological change. My research has been published or is forthcoming in Cambridge University Press, Economic and Political Studies, South European Society and Politics, the Journal of Political Institutions and Political Economy, and Election Studies. 
+My dissertation and current book project investigates the causes and consequences of American clean energy innovation. 
 
-My research focuses broadly on the intersection between technological change, economic development, and democracy and has been published or is forthcoming in Economic and Political Studies, South European Society and Politics, the Journal of Political Institutions and Political Economy, and Election Studies. With Prof. Victor Menaldo I recently revised and resubmitted a short book project to Cambridge University Press, Elements Series.
+I received my Ph.D. in Political Science from the University of Washington in 2024.
 
-Innovation policy - how do State actions influence technological change, and how does resulting creative destruction reshape political institutions? 
-
-Recently, I have been especially focused on the political decline of Globalization and the return of the State through industrial policy. Here, I am especially interested in policies related to the Clean Energy transition. 
+You can find my CV, contact information, and other links on this website. 
