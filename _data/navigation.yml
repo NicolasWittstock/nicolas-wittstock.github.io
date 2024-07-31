@@ -4,11 +4,14 @@ main:
   - title: "CV"
     url: /files/Wittstock Resume.pdf
     
-   title: "Publications"
-   url: /files/paper1.pdf 
+   #title: "Publications"
+   #url: /files/paper1.pdf 
 
   - title: "Book"
     url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3830957
+
+  - title: "Publications"
+    url: /files/paper1.pdf
 
   - title: "Political Economy Forum" 
     url: https://podcasters.spotify.com/pod/show/uw-politcal-economy/episodes/71---The-Politics-of-Automation---w-Daron-Acemoglu-e1cs86c
