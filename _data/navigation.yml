@@ -5,7 +5,7 @@ main:
     url: /files/Wittstock Resume.pdf
     
   - title: "Publications"
-    url: /publications/
+    url: /files/PublicationList
 
   - title: "Book"
     url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3830957
