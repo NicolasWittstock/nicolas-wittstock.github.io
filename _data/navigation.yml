@@ -4,8 +4,8 @@ main:
   - title: "CV"
     url: /files/Wittstock Resume.pdf
     
-   #title: "Publications"
-   #url: /publications/
+   title: "Publications"
+   url: /publications/
 
   - title: "Book"
     url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3830957
@@ -19,8 +19,8 @@ main:
  #- title: "Talks"
  #  url: /talks/      
     
-  - title: "Portfolio"
-    url: /portfolio/
+ # - title: "Portfolio"
+ #   url: /portfolio/
         
   #- title: "Blog Posts"
    # url: /year-archive/
