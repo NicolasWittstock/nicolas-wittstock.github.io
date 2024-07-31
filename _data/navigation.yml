@@ -4,7 +4,7 @@ main:
   - title: "CV"
     url: /files/Wittstock Resume.pdf
     
-   title: "Publications"
+  - title: "Publications"
    url: /publications/
 
   - title: "Book"
