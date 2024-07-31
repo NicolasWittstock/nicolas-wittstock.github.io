@@ -13,17 +13,17 @@ main:
   - title: "Political Economy Forum" 
     url: https://podcasters.spotify.com/pod/show/uw-politcal-economy/episodes/71---The-Politics-of-Automation---w-Daron-Acemoglu-e1cs86c
 
- # - title: "Teaching"
- #   url: /teaching/  
+  - title: "Teaching"
+    url: /teaching/  
     
- # - title: "Talks"
- #   url: /talks/      
+ - title: "Talks"
+   url: /talks/      
     
- # - title: "Portfolio"
- #   url: /portfolio/
+  - title: "Portfolio"
+    url: /portfolio/
         
- # - title: "Blog Posts"
- #   url: /year-archive/
+  - title: "Blog Posts"
+    url: /year-archive/
     
  # - title: "Guide"
  #   url: /markdown/
